@@ -16,18 +16,15 @@ Test and run the API on postman.
 
 Clone the repository: 
 ```
-
 https://github.com/Parth12399/task-manager-api
 ```
 
 To install the dependencies:
 ```
-
 npm install
 ```
 
 To run the app:
 ```
-
 npm run dev
 ```
